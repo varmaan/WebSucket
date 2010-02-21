@@ -1,0 +1,4 @@
+pom:
+- update site: http://wiki.eclipse.org/Jetty/Howto/Use_Jetty_with_Maven
+- repo: http://repo2.maven.org/maven2/org/eclipse/jetty/jetty-websocket/7.0.1.v20091125/
+- example: http://www.therichwebexperience.com/blog/greg_wilkins/2009/11/jetty_websocket_server
